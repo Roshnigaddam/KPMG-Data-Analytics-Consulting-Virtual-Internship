@@ -2,9 +2,9 @@
 
 The 3 datasets attached from Sprocket Central Pty Ltd. :
 
-Customer Demographic 
-Customer Addresses
-Transaction data in the past three months
+- Customer Demographic 
+- Customer Addresses
+- Transaction data in the past three months
 
 TASK 1:
 Assess the quality of their data as well as make recommendations on ways to clean the underlying data and mitigate these issues.
