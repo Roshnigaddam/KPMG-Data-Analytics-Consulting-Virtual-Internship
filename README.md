@@ -24,4 +24,5 @@ Present your findings:
 - What additional external datasets may be useful to obtain greater insights into customer preferences and propensity to purchase the products?
 Specifically, your presentation should specify who Sprocket Central Pty Ltd’s marketing team should be targeting out of the new 1000 customer list as well as the broader market segment to reach out to. 
 - Develop a dashboard that we can present to the client at our next meeting. Display your data summary and results of the analysis in a dashboard.
-(Applied Association Rule Mining techniques to study the behavior of past High Value customers and identify buying patterns for future recommendations and marketing strategy.)
+(Applied Association Rule Mining techniques to study the behavior of past High Value customers and identify buying patterns for future recommendations and marketing strategy.
+ Developed a dashboard on Tableau Desktop.)
