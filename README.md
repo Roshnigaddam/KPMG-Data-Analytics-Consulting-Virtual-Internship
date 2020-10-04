@@ -14,7 +14,7 @@ TASK 2:
 - Sprocket Central Pty Ltd has given us a new list of 1000 potential customers with their demographics and attributes. However, these customers do not have prior transaction history with the organisation. 
 - The marketing team at Sprocket Central Pty Ltd is sure that, if correctly analysed, the data would reveal useful customer insights which could help optimise resource allocation for targeted marketing. Hence, improve performance by focusing on high value customers.
 - Using the existing 3 datasets (Customer demographic, customer address and transactions) as a labelled dataset, please recommend which of these 1000 new customers should be targeted to drive the most value for the organisation. 
-(Applied RFM Analysis for labelling data and Classification Models to predict High Value Customers among the new customers.)
+(Applied RFM Analysis for labelling training data and Classification Models to predict High Value Customers among the new customers.)
 
 TASK 3:
 Present your findings:
